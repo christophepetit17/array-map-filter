@@ -15,7 +15,7 @@ pour chaque campus gardé, un objet sous la forme : { VILLE: NB_ELEVES }.
 Arguments en entrée:
 
 1. Tableau des campus:
-[
+
   { city: 'Bordeaux',
     curriculums: [
       { name: 'PHP/Symfony', numStudents: 12 },
